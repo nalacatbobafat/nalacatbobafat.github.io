@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D4L7QS7682.com.example.synWebApp1",
+        "paths": [ "/path1/*", "/path2/*" ]
+      }
+    ]
+  }
+}
